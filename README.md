@@ -1,1 +1,4 @@
 # PersonalWebsite
+# Just to let you know, the first push "test" on git was from a different author -- that was me. For a different project, I was told to push any changes I made under a different email and I forgot to switch back to my email for this project. I was a bit rushed on time, so there are definitely some finicky things on the website and things I have to add for the future. Also, I thought I would let you know, the BlurText component was not written by me and was taken from a open-source library called ReactBits which has a bunch of cool little components with react code included. I understand all of the code that goes into creating that component and have experience using react-spring (although I mainly use framer not spring). I hope you enjoy looking at my personal website!
+
+# Link: https://personal-website-z8yh.vercel.app/
