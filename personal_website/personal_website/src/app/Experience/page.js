@@ -6,7 +6,7 @@ export default function Experience() {
     <div className="min-h-screen bg-[#f5f5dc]">
       <div className="container mx-auto px-4 py-12 space-y-12">
 
-        {/* Lilypad*/}
+     
         <div className="flex flex-col md:flex-row bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
           <div className="md:w-1/2">
             <img
@@ -34,7 +34,7 @@ export default function Experience() {
           </div>
         </div>
 
-        {/* Stealth Startup */}
+  
         <div className="flex flex-col md:flex-row bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
           
           <div className="md:w-1/2">

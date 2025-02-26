@@ -18,7 +18,7 @@ function AboutMe() {
           </div>
           <div className="overflow-hidden rounded-lg shadow-lg">
             <img
-              src="/IMG_0272.jpg"
+              src="/IMG_0272.JPG"
               alt="Travel Photo 2"
               className="w-full h-auto transform transition duration-300 hover:scale-105"
             />
@@ -32,7 +32,7 @@ function AboutMe() {
           </div>
           <div className="overflow-hidden rounded-lg shadow-lg">
             <img
-              src="/IMG_7116.jpg"
+              src="/IMG_7116.JPG"
               alt="Travel Photo 4"
               className="w-full h-auto transform transition duration-300 hover:scale-105"
             />
@@ -74,7 +74,7 @@ function AboutMe() {
           </div>
           <div className="overflow-hidden rounded-lg shadow-lg">
             <img
-              src="/IMG_8608.jpg"
+              src="/IMG_8608.JPG"
               alt="Travel Photo 6"
               className="w-full h-auto transform transition duration-300 hover:scale-105"
             />
@@ -88,7 +88,7 @@ function AboutMe() {
           </div>
           <div className="overflow-hidden rounded-lg shadow-lg">
             <img
-              src="/IMG_0213.jpg"
+              src="/IMG_0213.JPG"
               alt="Travel Photo 6"
               className="w-full h-auto transform transition duration-300 hover:scale-105"
             />
