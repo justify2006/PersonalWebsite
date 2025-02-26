@@ -92,7 +92,7 @@ function Homepage() {
             ></div>
 
             {/* Portrait 1 */}
-            <div className="absolute left-[10%] bottom-25%] w-[200px] h-[300px] md:w-[240px] md:h-[320px] z-10">
+            <div className="absolute left-[10%] bottom-[25%] w-[200px] h-[300px] md:w-[240px] md:h-[320px] z-10">
               <div
                 className={`w-full h-full rounded-2xl border-2 border-[#ffd700] overflow-hidden transform transition-all duration-500 delay-100 shadow-lg hover:shadow-xl hover:-translate-y-2 ${
                   isLoaded ? "translate-y-0" : "translate-y-full"
